@@ -5,6 +5,7 @@ A clean and modern Android app that automatically enables and disables Do Not Di
 ---
 
 ## ✨ Features
+DND Scheduler helps you automatically control your phone’s Do Not Disturb (DND) mode based on your daily schedule. Whether you want silence during prayers, sleep, meetings, classes, study sessions, or focused work, the app handles it for you automatically.
 
 - 🕒 Create multiple custom schedules
 - 🔁 Repeat schedules (daily or selected days)
